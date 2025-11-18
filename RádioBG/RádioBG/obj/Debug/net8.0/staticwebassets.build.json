@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6r6mrzEfB21Z8Mjner90S5GXndhPM6RRJ7yf9LLr9Fs=",
+  "Hash": "NBU+9ARiyMPMDfZGcUSF3xM4C08asnbXq5OpZpbrMKM=",
   "Source": "RádioBG",
   "BasePath": "_content/RádioBG",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "qn0sage9oc",
-      "Integrity": "qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=",
+      "Fingerprint": "z3dm0zf1cu",
+      "Integrity": "34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "qn0sage9oc",
-      "Integrity": "qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=",
+      "Fingerprint": "z3dm0zf1cu",
+      "Integrity": "34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
+      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
       "SourceId": "RádioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
       "BasePath": "_content/RádioBG",
-      "RelativePath": "css/Lista#[.{fingerprint}]?.css",
+      "RelativePath": "css/lista#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +94,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3ee5uot6hk",
-      "Integrity": "G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=",
+      "Fingerprint": "yljr2o5s4l",
+      "Integrity": "+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Lista.css"
+      "OriginalItemSpec": "wwwroot\\css\\lista.css"
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\login.css",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Solicitar.css",
+      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\solicitar.css",
       "SourceId": "RádioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
       "BasePath": "_content/RádioBG",
-      "RelativePath": "css/Solicitar#[.{fingerprint}]?.css",
+      "RelativePath": "css/solicitar#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -178,11 +178,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wdhnue4ifx",
-      "Integrity": "PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=",
+      "Fingerprint": "0pr1lz5871",
+      "Integrity": "dDPYaK5Y82BGpmh9rghZCJ42wifHTVGRad+zM7dFdjE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Solicitar.css"
+      "OriginalItemSpec": "wwwroot\\css\\solicitar.css"
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\favicon.ico",
@@ -1592,8 +1592,8 @@
       ]
     },
     {
-      "Route": "css/Lista.3ee5uot6hk.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
+      "Route": "css/lista.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1602,7 +1602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1208"
+          "Value": "1220"
         },
         {
           "Name": "Content-Type",
@@ -1610,56 +1610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=\""
+          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:40:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ee5uot6hk"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Lista.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg="
-        }
-      ]
-    },
-    {
-      "Route": "css/Lista.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1208"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:40:55 GMT"
+          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1669,7 +1624,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg="
+          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
+        }
+      ]
+    },
+    {
+      "Route": "css/lista.yljr2o5s4l.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yljr2o5s4l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/lista.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
         }
       ]
     },
@@ -1920,8 +1920,8 @@
       ]
     },
     {
-      "Route": "css/Solicitar.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Solicitar.css",
+      "Route": "css/solicitar.0pr1lz5871.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\solicitar.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1930,7 +1930,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1253"
+          "Value": "1266"
         },
         {
           "Name": "Content-Type",
@@ -1938,48 +1938,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=\""
+          "Value": "\"dDPYaK5Y82BGpmh9rghZCJ42wifHTVGRad+zM7dFdjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:38:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/Solicitar.wdhnue4ifx.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Solicitar.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1253"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:38:27 GMT"
+          "Value": "Tue, 18 Nov 2025 20:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1989,15 +1952,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wdhnue4ifx"
+          "Value": "0pr1lz5871"
         },
         {
           "Name": "label",
-          "Value": "css/Solicitar.css"
+          "Value": "css/solicitar.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ="
+          "Value": "sha256-dDPYaK5Y82BGpmh9rghZCJ42wifHTVGRad+zM7dFdjE="
+        }
+      ]
+    },
+    {
+      "Route": "css/solicitar.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\solicitar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dDPYaK5Y82BGpmh9rghZCJ42wifHTVGRad+zM7dFdjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:56:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dDPYaK5Y82BGpmh9rghZCJ42wifHTVGRad+zM7dFdjE="
         }
       ]
     },
@@ -7178,7 +7178,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "932"
+          "Value": "961"
         },
         {
           "Name": "Content-Type",
@@ -7186,11 +7186,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=\""
+          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 20:40:56 GMT"
+          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7200,97 +7200,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA="
-        }
-      ]
-    },
-    {
-      "Route": "RádioBG.qn0sage9oc.bundle.scp.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "932"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 20:40:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qn0sage9oc"
-        },
-        {
-          "Name": "label",
-          "Value": "RádioBG.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA="
-        }
-      ]
-    },
-    {
-      "Route": "RádioBG.qn0sage9oc.styles.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "932"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 20:40:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qn0sage9oc"
-        },
-        {
-          "Name": "label",
-          "Value": "RádioBG.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA="
+          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
         }
       ]
     },
@@ -7305,7 +7215,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "932"
+          "Value": "961"
         },
         {
           "Name": "Content-Type",
@@ -7313,11 +7223,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA=\""
+          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 20:40:56 GMT"
+          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7327,7 +7237,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qmO2tvOwtbSAJuYxHcZqso0ghaz4NZTacHHRUU4gayA="
+          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
+        }
+      ]
+    },
+    {
+      "Route": "RádioBG.z3dm0zf1cu.bundle.scp.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3dm0zf1cu"
+        },
+        {
+          "Name": "label",
+          "Value": "RádioBG.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
+        }
+      ]
+    },
+    {
+      "Route": "RádioBG.z3dm0zf1cu.styles.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3dm0zf1cu"
+        },
+        {
+          "Name": "label",
+          "Value": "RádioBG.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
         }
       ]
     }

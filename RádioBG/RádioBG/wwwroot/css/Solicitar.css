@@ -1,7 +1,6 @@
 ﻿body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
     background: linear-gradient(180deg, #e9f1ff 0%, #d1e4ff 100%);
 }
 
@@ -19,6 +18,8 @@ h2 {
     border-radius: 20px;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
     margin: 60px auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
 }
 
 form {

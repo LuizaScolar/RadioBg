@@ -1,9 +1,9 @@
 wwwroot\css\index.css
-wwwroot\css\Lista.css
+wwwroot\css\lista.css
 wwwroot\css\login.css
 wwwroot\css\privacidade.css
 wwwroot\css\site.css
-wwwroot\css\Solicitar.css
+wwwroot\css\solicitar.css
 wwwroot\favicon.ico
 wwwroot\img\imagem 1.jpeg
 wwwroot\img\imagem 2.jpeg

@@ -2,19 +2,15 @@
   "Files": [
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
-      "PackagePath": "staticwebassets\\RádioBG.qn0sage9oc.bundle.scp.css"
-    },
-    {
-      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
-      "PackagePath": "staticwebassets\\css\\Lista.css"
-    },
-    {
-      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Solicitar.css",
-      "PackagePath": "staticwebassets\\css\\Solicitar.css"
+      "PackagePath": "staticwebassets\\RádioBG.z3dm0zf1cu.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
+      "PackagePath": "staticwebassets\\css\\lista.css"
     },
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\login.css",
@@ -27,6 +23,10 @@
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\solicitar.css",
+      "PackagePath": "staticwebassets\\css\\solicitar.css"
     },
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\favicon.ico",
