@@ -1,8 +1,13 @@
 wwwroot\css\index.css
 wwwroot\css\Lista.css
+wwwroot\css\login.css
 wwwroot\css\site.css
 wwwroot\css\Solicitar.css
 wwwroot\favicon.ico
+wwwroot\img\imagem 1.jpeg
+wwwroot\img\imagem 2.jpeg
+wwwroot\img\imagem 3.jpeg
+wwwroot\img\membro.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

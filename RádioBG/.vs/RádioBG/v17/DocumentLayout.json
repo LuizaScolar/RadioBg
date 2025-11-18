@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,26 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\wwwroot\\css\\index.css",
-              "RelativeDocumentMoniker": "R\u00E1dioBG\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\wwwroot\\css\\index.css",
-              "RelativeToolTip": "R\u00E1dioBG\\wwwroot\\css\\index.css",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "R\u00E1dioBG\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-18T18:54:12.808Z"
+              "WhenOpened": "2025-11-18T19:45:44.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Lista.cshtml",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\Views\\Home\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Lista.cshtml",
+              "RelativeToolTip": "R\u00E1dioBG\\Views\\Home\\Lista.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:44:33.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "R\u00E1dioBG\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "R\u00E1dioBG\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAtAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "R\u00E1dioBG\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T18:53:04.811Z",
+              "WhenOpened": "2025-11-18T19:42:54.521Z",
               "EditorCaption": ""
             }
           ]
