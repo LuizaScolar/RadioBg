@@ -1,6 +1,133 @@
-﻿namespace RádioBG.wwwroot.css
-{
-    public class index
-    {
+﻿body {
+    margin: 0;
+    background: linear-gradient(180deg, #e9f1ff 0%, #d1e4ff 100%);
+    color: #111;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 10%;
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    color: white;
+}
+
+.bannerContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.bannerText {
+    flex: 1 1 400px;
+}
+
+    .bannerText h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #fff;
     }
+
+
+    .bannerText p {
+        font-size: 1.1rem;
+        margin: 15px 0 25px;
+    }
+
+.bannerBtn {
+    background-color: #fff;
+    color: #004aad;
+    padding: 12px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+    .bannerBtn:hover {
+        background-color: #ff2c2c;
+        color: #fff;
+    }
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.sobre {
+    text-align: center;
+    padding: 80px 10%;
+    background: #fff;
+}
+
+    .sobre h2 {
+        color: #004aad;
+        font-weight: 700;
+    }
+
+.carrossel {
+    text-align: center;
+    padding: 60px 5%;
+}
+
+    .carrossel h2 {
+        color: #004aad;
+        font-weight: bold;
+    }
+
+.adm {
+    background: #f3f7ff;
+    text-align: center;
+    padding: 80px 5%;
+}
+
+.admContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.membro {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    padding: 20px;
+    width: 220px;
+}
+
+    .membro img {
+        width: 100%;
+        border-radius: 20px;
+    }
+
+    .membro h3 {
+        margin: 10px 0 5px;
+        color: #004aad;
+    }
+
+.feedbacks {
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    color: white;
+    text-align: center;
+    padding: 80px 10%;
+}
+
+.feedbacksContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 40px;
+}
+
+.feedback {
+    background-color: rgba(255, 255, 255, 0.5); /* Branco com 50% de transparência */
+    border-radius: 20px;
+    padding: 20px;
+    width: 280px;
+    font-style: italic;
 }
