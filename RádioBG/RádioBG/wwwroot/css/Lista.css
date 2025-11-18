@@ -1,49 +1,60 @@
 ﻿body {
+    margin: 0;
+    padding: 0;
     font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #e9f1ff 0%, #d1e4ff 100%);
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    background: white;
-    border-radius: 6px;
+    background: #fff;
+    border-radius: 20px;
     overflow: hidden;
-}
-
-th, td {
-    padding: 12px;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
 
 th {
-    background: #e3e3e3;
+    padding: 14px;
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #e6e6e6;
 }
 
 .check {
     width: 22px;
     height: 22px;
-    border: 2px solid #555;
-    border-radius: 4px;
+    border: 2px solid #004aad;
+    border-radius: 6px;
     cursor: pointer;
     display: inline-block;
+    transition: .3s;
 }
 
     .check.tocado {
-        background: #3a78ff;
-        border-color: #3a78ff;
+        background: #004aad;
+        border-color: #004aad;
+        box-shadow: 0 0 8px #004aad55;
     }
 
 button.excluir {
-    padding: 6px 10px;
-    background: #ff4b4b;
-    color: white;
+    padding: 8px 12px;
+    background: linear-gradient(135deg, #ff2c2c, #a80000);
+    color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
     font-weight: bold;
+    transition: .3s;
 }
 
     button.excluir:hover {
-        background: #d63b3b;
+        opacity: .85;
+        transform: translateY(-1px);
     }

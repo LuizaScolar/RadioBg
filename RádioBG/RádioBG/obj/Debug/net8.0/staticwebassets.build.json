@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lcGhTrUAjRHhorAtLyHvIIYf8gzKhymPcvf9FVEs9WU=",
+  "Hash": "6r6mrzEfB21Z8Mjner90S5GXndhPM6RRJ7yf9LLr9Fs=",
   "Source": "RádioBG",
   "BasePath": "_content/RádioBG",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z6r0avta13",
-      "Integrity": "VQClQYrTcorQNsQKyE4YtFaylGnESgPlFHnYAtPfFoQ=",
+      "Fingerprint": "3ee5uot6hk",
+      "Integrity": "G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Lista.css"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wubtvy47b3",
-      "Integrity": "uNfPLe2AKhGgEm7Tr6o90tBoIvs9PVKtWuGhuPZZTc0=",
+      "Fingerprint": "wdhnue4ifx",
+      "Integrity": "PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Solicitar.css"
@@ -1592,6 +1592,51 @@
       ]
     },
     {
+      "Route": "css/Lista.3ee5uot6hk.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:40:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ee5uot6hk"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Lista.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg="
+        }
+      ]
+    },
+    {
       "Route": "css/Lista.css",
       "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
       "Selectors": [],
@@ -1602,7 +1647,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "815"
+          "Value": "1208"
         },
         {
           "Name": "Content-Type",
@@ -1610,11 +1655,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VQClQYrTcorQNsQKyE4YtFaylGnESgPlFHnYAtPfFoQ=\""
+          "Value": "\"G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 22:04:12 GMT"
+          "Value": "Tue, 18 Nov 2025 20:40:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1624,52 +1669,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VQClQYrTcorQNsQKyE4YtFaylGnESgPlFHnYAtPfFoQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/Lista.z6r0avta13.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Lista.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "815"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VQClQYrTcorQNsQKyE4YtFaylGnESgPlFHnYAtPfFoQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 22:04:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z6r0avta13"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Lista.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VQClQYrTcorQNsQKyE4YtFaylGnESgPlFHnYAtPfFoQ="
+          "Value": "sha256-G2ZPFRx7iAJwYJXJd/q4N6z4jBHfj1pHMlOox0OQYQg="
         }
       ]
     },
@@ -1930,7 +1930,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "848"
+          "Value": "1253"
         },
         {
           "Name": "Content-Type",
@@ -1938,11 +1938,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uNfPLe2AKhGgEm7Tr6o90tBoIvs9PVKtWuGhuPZZTc0=\""
+          "Value": "\"PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 22:37:01 GMT"
+          "Value": "Tue, 18 Nov 2025 20:38:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1952,12 +1952,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uNfPLe2AKhGgEm7Tr6o90tBoIvs9PVKtWuGhuPZZTc0="
+          "Value": "sha256-PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ="
         }
       ]
     },
     {
-      "Route": "css/Solicitar.wubtvy47b3.css",
+      "Route": "css/Solicitar.wdhnue4ifx.css",
       "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\Solicitar.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1967,7 +1967,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "848"
+          "Value": "1253"
         },
         {
           "Name": "Content-Type",
@@ -1975,11 +1975,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uNfPLe2AKhGgEm7Tr6o90tBoIvs9PVKtWuGhuPZZTc0=\""
+          "Value": "\"PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Nov 2025 22:37:01 GMT"
+          "Value": "Tue, 18 Nov 2025 20:38:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1989,7 +1989,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wubtvy47b3"
+          "Value": "wdhnue4ifx"
         },
         {
           "Name": "label",
@@ -1997,7 +1997,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uNfPLe2AKhGgEm7Tr6o90tBoIvs9PVKtWuGhuPZZTc0="
+          "Value": "sha256-PLLJoDlRKIvlc6VPBoqcaPQszbatc9HS1sTmaPJrCxQ="
         }
       ]
     },

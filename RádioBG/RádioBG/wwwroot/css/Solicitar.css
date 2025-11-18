@@ -1,54 +1,67 @@
 ﻿body {
+    margin: 0;
+    padding: 0;
     font-family: Arial, sans-serif;
+    background: linear-gradient(180deg, #e9f1ff 0%, #d1e4ff 100%);
 }
 
 h2 {
     margin-bottom: 20px;
+    text-align: center;
+    color: #004aad;
+    font-weight: 700;
 }
 
 .form-container {
     max-width: 450px;
-    background: white;
-    padding: 25px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px #00000020;
+    background: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+    margin: 60px auto;
 }
 
 form {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 15px;
 }
 
 label {
     font-weight: bold;
+    color: #004aad;
     margin-bottom: -5px;
 }
 
 input {
-    padding: 10px;
-    border: 1px solid #bbb;
-    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #bfcdf0;
+    border-radius: 12px;
     font-size: 15px;
     outline: none;
+    background: #f8faff;
+    transition: .3s;
 }
 
     input:focus {
-        border-color: #3366ff;
+        border-color: #004aad;
+        box-shadow: 0 0 8px #004aad55;
     }
 
 button {
     margin-top: 10px;
-    padding: 12px;
+    padding: 14px;
     font-size: 16px;
-    background: #3366ff;
-    color: white;
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    color: #fff;
     border: none;
-    border-radius: 8px;
+    border-radius: 12px;
     cursor: pointer;
     font-weight: bold;
+    transition: .3s;
 }
 
     button:hover {
-        background: #274ecc;
+        opacity: .85;
+        transform: translateY(-1px);
     }
