@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RádioBG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a91eb1f08bb1d1be5191b1f2bfb241ca144f9c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9624cbcf5b0007d81be435ca8977f2ed61f668")]
 [assembly: System.Reflection.AssemblyProductAttribute("RádioBG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RádioBG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

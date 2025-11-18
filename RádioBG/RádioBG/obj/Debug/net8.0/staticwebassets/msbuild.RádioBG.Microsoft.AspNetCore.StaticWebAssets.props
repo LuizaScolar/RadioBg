@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yukvgdbn3a</Fingerprint>
-      <Integrity>Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc=</Integrity>
+      <Fingerprint>paqoy8x9d8</Fingerprint>
+      <Integrity>35JTisXrtIGvUrPUY/rBTTdkfVNhIJT8nP+lnHo6gpQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\privacidade.css'))</OriginalItemSpec>

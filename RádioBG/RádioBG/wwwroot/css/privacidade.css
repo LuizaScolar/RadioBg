@@ -1,6 +1,36 @@
-﻿namespace RádioBG.wwwroot.css
-{
-    public class privacidade
-    {
-    }
+﻿body {
+    margin: 0;
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    font-family: sans-serif;
 }
+
+.privacidadeContainer {
+    display: flex;
+    justify-content: center;
+    padding: 60px 10%;
+}
+
+.privacidadeCard {
+    background-color: #ffffff70;
+    padding: 40px;
+    border-radius: 20px;
+    max-width: 900px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+    .privacidadeCard h1 {
+        font-weight: bold;
+        color: white;
+        margin-bottom: 20px;
+    }
+
+    .privacidadeCard h2 {
+       color: white;
+        margin-top: 25px;
+    }
+
+    .privacidadeCard p {
+        color: white;
+        margin-top: 8px;
+        line-height: 1.6rem;
+    }
