@@ -32,3 +32,4 @@ C:\Users\scola\OneDrive\Área de Trabalho\A.T\DS\PROJETO RÁDIO 1.2\RádioBG\Rá
 C:\Users\scola\OneDrive\Área de Trabalho\A.T\DS\PROJETO RÁDIO 1.2\RádioBG\RádioBG\obj\Debug\net8.0\RádioBG.pdb
 C:\Users\scola\OneDrive\Área de Trabalho\A.T\DS\PROJETO RÁDIO 1.2\RádioBG\RádioBG\obj\Debug\net8.0\RádioBG.genruntimeconfig.cache
 C:\Users\scola\OneDrive\Área de Trabalho\A.T\DS\PROJETO RÁDIO 1.2\RádioBG\RádioBG\obj\Debug\net8.0\ref\RádioBG.dll
+C:\Users\scola\OneDrive\Área de Trabalho\A.T\DS\PROJETO RÁDIO 1.2\RádioBG\RádioBG\obj\Debug\net8.0\RádioBG.sourcelink.json

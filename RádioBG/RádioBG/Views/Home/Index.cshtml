@@ -2,7 +2,85 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="banner">
+    <div class="bannerContainer">
+        <div class="bannerText">
+            <h1>Ouça a <span>BGPLAY</span></h1>
+            <p>A voz da escola, no ritmo que você escolhe — a rádio onde cada nota tem a sua cara!</p>
+            <a href="#" class="bannerBtn">Ouvir Agora</a>
+        </div>
+    </div>
+</section>
+
+<section class="sobre">
+    <h2>Sobre a Rádio</h2>
+    <p>Conteúdo feito por alunos, para alunos. A BGPLAY conecta, informa e entretém com estilo e energia!</p>
+</section>
+
+<section class="carrossel">
+    <h2>Nosso Estúdio</h2>
+    <div id="radioCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#radioCarousel" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#radioCarousel" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#radioCarousel" data-bs-slide-to="2"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="" class="img" alt="Slide 1">
+            </div>
+            <div class="carousel-item">
+                <img src="" class="img" alt="Slide 2">
+            </div>
+            <div class="carousel-item">
+                <img src="" class="img" alt="Slide 3">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#radioCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#radioCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+</section>
+
+<section class="adm">
+    <h2>Apresentadores</h2>
+    <div class="admContainer">
+        <div class="membro">
+            <img src="~/img/user1.jpg" alt="Apresentador 1">
+            <h3>Nome 1</h3>
+            <p>Função / Programa</p>
+        </div>
+        <div class="membro">
+            <img src="~/img/user2.jpg" alt="Apresentador 2">
+            <h3>Nome 2</h3>
+            <p>Função / Programa</p>
+        </div>
+        <div class="membro">
+            <img src="~/img/user3.jpg" alt="Apresentador 3">
+            <h3>Nome 3</h3>
+            <p>Função / Programa</p>
+        </div>
+    </div>
+</section>
+
+<section class="feedbacks">
+    <h2>O que dizem nossos ouvintes</h2>
+    <div class="feedbacksContainer">
+        <div class="feedback">
+            <p>"A rádio mais animada da escola! Amo ouvir durante os intervalos."</p>
+            <span>- Estudante 1</span>
+        </div>
+        <div class="feedback">
+            <p>"A vibe da BGPLAY é diferente, super leve e divertida!"</p>
+            <span>- Estudante 2</span>
+        </div>
+    </div>
+</section>
+
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/lista.css" />
+}
