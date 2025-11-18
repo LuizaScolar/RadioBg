@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\views\\home\\solicitar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\views\\home\\solicitar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|c:\\users\\scola\\onedrive\\\u00E1rea de trabalho\\a.t\\ds\\projeto r\u00E1dio 1.2\\r\u00E1diobg\\r\u00E1diobg\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6194E6D2-CDDC-4BF4-AFA4-A06B651488BD}|R\u00E1dioBG\\R\u00E1dioBG.csproj|solutionrelative:r\u00E1diobg\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solicitar.cshtml",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Solicitar.cshtml",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\Views\\Home\\Solicitar.cshtml",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Views\\Home\\Solicitar.cshtml",
+              "RelativeToolTip": "R\u00E1dioBG\\Views\\Home\\Solicitar.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T22:55:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Program.cs",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\Program.cs",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Program.cs",
+              "RelativeToolTip": "R\u00E1dioBG\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAbD4tj3r0vxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:51:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\appsettings.json",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\appsettings.json",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\appsettings.json",
+              "RelativeToolTip": "R\u00E1dioBG\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T22:50:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "R\u00E1dioBG\\Models\\Musica.cs",
+              "ToolTip": "C:\\Users\\scola\\OneDrive\\\u00C1rea de Trabalho\\A.T\\DS\\PROJETO R\u00C1DIO 1.2\\R\u00E1dioBG\\R\u00E1dioBG\\Models\\Musica.cs",
+              "RelativeToolTip": "R\u00E1dioBG\\Models\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:49:08.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background: #e3e3e3;
+}
+
+.check {
+    width: 22px;
+    height: 22px;
+    border: 2px solid #555;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+    .check.tocado {
+        background: #3a78ff;
+        border-color: #3a78ff;
+    }
+
+button.excluir {
+    padding: 6px 10px;
+    background: #ff4b4b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+    button.excluir:hover {
+        background: #d63b3b;
+    }

@@ -1,0 +1,32 @@
+﻿
+@page
+@section Styles {
+    <link rel="stylesheet" href="~/css/Solicitar.css" />
+}
+
+
+<h2>Adicionar Música</h2>
+
+<div class="form-container">
+    <form id="form-musica">
+        <label>ID da música</label>
+        <input type="number" id="idMusica" placeholder="Ex: 12" required />
+
+        <label>Nome da música</label>
+        <input type="text" id="nomeMusica" placeholder="Ex: Blinding Lights" required />
+
+        <label>Nome do cantor</label>
+        <input type="text" id="nomeCantor" placeholder="Ex: The Weeknd" required />
+
+        <button type="submit">Solicitar</button>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById("form-musica").addEventListener("submit", (e) => {
+            e.preventDefault();
+            alert("Música adicionada! (Lado real, aqui você mandaria pro banco)");
+        });
+    </script>
+}
