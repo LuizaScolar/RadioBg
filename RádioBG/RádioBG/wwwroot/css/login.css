@@ -1,6 +1,74 @@
-﻿namespace RádioBG.wwwroot.css
-{
-    public class login
-    {
-    }
+﻿body {
+    margin: 0;
+    background: linear-gradient(180deg, #e9f1ff 0%, #d1e4ff 100%);
+    font-family: sans-serif;
 }
+
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.loginCard {
+    background: #fff;
+    padding: 35px;
+    width: 350px;
+    border-radius: 20px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+    .loginCard h2 {
+        color: #004aad;
+        margin-bottom: 25px;
+    }
+
+label {
+    display: block;
+    text-align: left;
+    margin: 12px 0 5px;
+    color: #004aad;
+    font-weight: 600;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #bfcdf0;
+    outline: none;
+}
+
+    input:focus {
+        border-color: #004aad;
+    }
+
+.loginBtn {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(135deg, #004aad, #ff2c2c);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: .3s;
+}
+
+    .loginBtn:hover {
+        opacity: .85;
+    }
+
+.loginInfo {
+    margin-top: 20px;
+}
+
+    .loginInfo a {
+        color: #ff2c2c;
+        text-decoration: none;
+        font-weight: bold;
+    }

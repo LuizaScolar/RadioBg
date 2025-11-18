@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M+Uf6UpzuLKTZgjP5Nwx4bXfrPHS8+vkCfXgVKct0tE=",
+  "Hash": "W7lfZahhLJBIKbOqt1Sl2hF4GooZV/KJKvPzZt/lAig=",
   "Source": "RádioBG",
   "BasePath": "_content/RádioBG",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "trwv08enly",
-      "Integrity": "qXeD5GD6y3dAMFSMjVXt7c/n368iY6vG0mC9lbhODk8=",
+      "Fingerprint": "kwdl1v6rgl",
+      "Integrity": "XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
@@ -1663,7 +1663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "79"
+          "Value": "1329"
         },
         {
           "Name": "Content-Type",
@@ -1671,11 +1671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qXeD5GD6y3dAMFSMjVXt7c/n368iY6vG0mC9lbhODk8=\""
+          "Value": "\"XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 19:45:42 GMT"
+          "Value": "Tue, 18 Nov 2025 19:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1685,12 +1685,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qXeD5GD6y3dAMFSMjVXt7c/n368iY6vG0mC9lbhODk8="
+          "Value": "sha256-XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0="
         }
       ]
     },
     {
-      "Route": "css/login.trwv08enly.css",
+      "Route": "css/login.kwdl1v6rgl.css",
       "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1700,7 +1700,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "79"
+          "Value": "1329"
         },
         {
           "Name": "Content-Type",
@@ -1708,11 +1708,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qXeD5GD6y3dAMFSMjVXt7c/n368iY6vG0mC9lbhODk8=\""
+          "Value": "\"XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 19:45:42 GMT"
+          "Value": "Tue, 18 Nov 2025 19:52:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1722,7 +1722,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "trwv08enly"
+          "Value": "kwdl1v6rgl"
         },
         {
           "Name": "label",
@@ -1730,7 +1730,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qXeD5GD6y3dAMFSMjVXt7c/n368iY6vG0mC9lbhODk8="
+          "Value": "sha256-XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0="
         }
       ]
     },
