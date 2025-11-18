@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W7lfZahhLJBIKbOqt1Sl2hF4GooZV/KJKvPzZt/lAig=",
+  "Hash": "4nHe+wC3o+jaNgzEXnsVunJgypf/+QmRSFU7cY6Jzzs=",
   "Source": "RádioBG",
   "BasePath": "_content/RádioBG",
   "Mode": "Default",
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\privacidade.css",
+      "SourceId": "RádioBG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
+      "BasePath": "_content/RádioBG",
+      "RelativePath": "css/privacidade#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yukvgdbn3a",
+      "Integrity": "Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\privacidade.css"
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\site.css",
@@ -1731,6 +1752,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-XCm+HM0TMYaE372WV5dYULDVD4f6NgQq3F7D/jZlKa0="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacidade.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\privacidade.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc="
+        }
+      ]
+    },
+    {
+      "Route": "css/privacidade.yukvgdbn3a.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\privacidade.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 20:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yukvgdbn3a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/privacidade.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wk8zH1dIo1cN2LymJm7PWj/t3HSpPc1HZuFD+vlppjc="
         }
       ]
     },

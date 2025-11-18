@@ -1,6 +1,7 @@
 wwwroot\css\index.css
 wwwroot\css\Lista.css
 wwwroot\css\login.css
+wwwroot\css\privacidade.css
 wwwroot\css\site.css
 wwwroot\css\Solicitar.css
 wwwroot\favicon.ico
