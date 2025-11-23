@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using RádioBG.Models;
+using RadioBG.Models;
 
 namespace RádioBG.Controllers
 {

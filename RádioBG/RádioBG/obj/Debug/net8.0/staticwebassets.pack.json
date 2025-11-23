@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
-      "PackagePath": "staticwebassets\\RádioBG.z3dm0zf1cu.bundle.scp.css"
+      "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RadioBG.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RadioBG.am1um23cwr.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\index.css",
@@ -281,24 +281,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RádioBG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RadioBG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RádioBG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RadioBG.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RádioBG.props",
-      "PackagePath": "build\\RádioBG.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RadioBG.props",
+      "PackagePath": "build\\RadioBG.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RádioBG.props",
-      "PackagePath": "buildMultiTargeting\\RádioBG.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RadioBG.props",
+      "PackagePath": "buildMultiTargeting\\RadioBG.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RádioBG.props",
-      "PackagePath": "buildTransitive\\RádioBG.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RadioBG.props",
+      "PackagePath": "buildTransitive\\RadioBG.props"
     }
   ],
   "ElementsToRemove": []

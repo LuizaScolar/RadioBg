@@ -1,7 +1,7 @@
 ﻿
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RádioBG.Views.Home
+namespace RadioBG.Views.Home
 {
     public class IndexModel : PageModel
     {

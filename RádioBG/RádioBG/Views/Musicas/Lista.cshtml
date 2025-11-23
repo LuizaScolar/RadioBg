@@ -1,0 +1,65 @@
+﻿@model IEnumerable<RadioBG.Models.Musica>
+
+@{
+    ViewData["Title"] = "Lista de Músicas";
+}
+
+<h1>Lista de Músicas</h1>
+
+<p>
+    <a asp-action="Create" class="btn-criar">NOVA MÚSICA +</a>
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome da Música</th>
+            <th>Cantor</th>
+            <th>Horário</th>
+            <th>Tocado</th>
+            <th>Ação</th>
+        </tr>
+    </thead>
+
+    <tbody id="tabela-musicas">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MusicaId</td>
+                <td>@item.MusicaNome</td>
+                <td>@item.MusicaCantor</td>
+
+                <td>
+                    <select>
+                        <option>Almoço</option>
+                        <option>Intervalo</option>
+                    </select>
+                </td>
+                <td><div class="check"></div></td>
+                <td><button class="excluir">EXCLUIR</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        document.querySelectorAll(".check").forEach(c => {
+            c.addEventListener("click", () => {
+                c.classList.toggle("tocado");
+            });
+        });
+
+        document.querySelectorAll(".excluir").forEach(btn => {
+            btn.addEventListener("click", () => {
+                btn.closest("tr").remove();
+            });
+        });
+    </script>
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/lista.css" />
+}
+

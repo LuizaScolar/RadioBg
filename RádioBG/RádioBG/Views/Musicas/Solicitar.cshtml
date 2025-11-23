@@ -1,0 +1,27 @@
+﻿@model RadioBG.Models.Musica
+
+@{
+    ViewData["Title"] = "Solicitar Música";
+}
+
+<h2>Adicionar Música</h2>
+
+<div class="form-container">
+    <form asp-action="Create" method="post" id="form-musica">
+
+        <label>ID da música</label>
+        <input asp-for="MusicaId" type="number" placeholder="Ex: 12" required />
+
+        <label>Nome da música</label>
+        <input asp-for="MusicaNome" type="text" placeholder="Ex: O Embaixador" required />
+
+        <label>Nome do cantor</label>
+        <input asp-for="MusicaCantor" type="text" placeholder="Ex: Gusttavo Lima" required />
+
+        <button type="submit">Solicitar</button>
+    </form>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/solicitar.css" />
+}

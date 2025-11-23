@@ -1,9 +1,17 @@
-﻿namespace RádioBG.Models // <--- SUBSTITUA pelo namespace do seu projeto, ex: RadioBG.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace RadioBG.Models
 {
+    [Table("tbMusica")] 
     public class Musica
     {
-        public int Id { get; set; }
-        public string Nome { get; set; } = string.Empty;
-        public string Cantor { get; set; } = string.Empty;
+        [Key]
+        public int MusicaId { get; set; } 
+
+        public string? MusicaNome { get; set; }
+
+        public string? MusicaCantor { get; set; }
+
     }
 }

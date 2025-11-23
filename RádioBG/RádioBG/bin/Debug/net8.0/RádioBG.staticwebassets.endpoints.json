@@ -181,7 +181,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1220"
+          "Value": "1260"
         },
         {
           "Name": "Content-Type",
@@ -189,22 +189,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
+          "Value": "\"eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
+          "Value": "Tue, 18 Nov 2025 21:06:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
+          "Value": "sha256-eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI="
         }
       ]
     },
     {
-      "Route": "css/lista.yljr2o5s4l.css",
+      "Route": "css/lista.h69cwy5p3m.css",
       "AssetFile": "css/lista.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -218,7 +218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1220"
+          "Value": "1260"
         },
         {
           "Name": "Content-Type",
@@ -226,21 +226,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
+          "Value": "\"eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
+          "Value": "Tue, 18 Nov 2025 21:06:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yljr2o5s4l"
+          "Value": "h69cwy5p3m"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
+          "Value": "sha256-eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI="
         },
         {
           "Name": "label",

@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "NBU+9ARiyMPMDfZGcUSF3xM4C08asnbXq5OpZpbrMKM=",
-  "Source": "RádioBG",
-  "BasePath": "_content/RádioBG",
+  "Hash": "/t2loGVhPZsTsB/mfPZKiLKe8m+e+FifRFHOyaX2I4c=",
+  "Source": "RadioBG",
+  "BasePath": "_content/RadioBG",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "RádioBG\\wwwroot",
-      "Source": "RádioBG",
+      "Name": "RadioBG\\wwwroot",
+      "Source": "RadioBG",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css",
-      "SourceId": "RádioBG",
+      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RadioBG.styles.css",
+      "SourceId": "RadioBG",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/RádioBG",
-      "RelativePath": "RádioBG#[.{fingerprint}]?.styles.css",
+      "BasePath": "_content/RadioBG",
+      "RelativePath": "RadioBG#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "z3dm0zf1cu",
-      "Integrity": "34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=",
+      "Fingerprint": "am1um23cwr",
+      "Integrity": "Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css"
+      "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RadioBG.styles.css"
     },
     {
-      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
-      "SourceId": "RádioBG",
+      "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RadioBG.bundle.scp.css",
+      "SourceId": "RadioBG",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/RádioBG",
-      "RelativePath": "RádioBG#[.{fingerprint}]!.bundle.scp.css",
+      "BasePath": "_content/RadioBG",
+      "RelativePath": "RadioBG#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,18 +52,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "z3dm0zf1cu",
-      "Integrity": "34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=",
+      "Fingerprint": "am1um23cwr",
+      "Integrity": "Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RadioBG.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\index.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/index#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -81,10 +81,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/lista#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -94,18 +94,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yljr2o5s4l",
-      "Integrity": "+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=",
+      "Fingerprint": "h69cwy5p3m",
+      "Integrity": "eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\lista.css"
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\login.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -123,10 +123,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\privacidade.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/privacidade#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -144,10 +144,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\site.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -165,10 +165,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\solicitar.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "css/solicitar#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -186,10 +186,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\favicon.ico",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -207,10 +207,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\img\\imagem 1.jpeg",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "img/imagem 1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -228,10 +228,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\img\\imagem 2.jpeg",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "img/imagem 2#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -249,10 +249,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\img\\imagem 3.jpeg",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "img/imagem 3#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -270,10 +270,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\img\\membro.png",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "img/membro#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -291,10 +291,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\js\\site.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -312,10 +312,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -333,10 +333,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -354,10 +354,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -375,10 +375,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -396,10 +396,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -417,10 +417,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -438,10 +438,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -459,10 +459,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -480,10 +480,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -501,10 +501,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -522,10 +522,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -543,10 +543,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -564,10 +564,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -585,10 +585,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -606,10 +606,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -627,10 +627,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -648,10 +648,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -669,10 +669,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -690,10 +690,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -711,10 +711,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -732,10 +732,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -753,10 +753,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -774,10 +774,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -795,10 +795,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -816,10 +816,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -837,10 +837,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -858,10 +858,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -879,10 +879,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -900,10 +900,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -921,10 +921,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -942,10 +942,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -963,10 +963,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -984,10 +984,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1005,10 +1005,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1026,10 +1026,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1047,10 +1047,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1068,10 +1068,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1089,10 +1089,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1110,10 +1110,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1131,10 +1131,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1152,10 +1152,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1173,10 +1173,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1194,10 +1194,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1215,10 +1215,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1236,10 +1236,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1257,10 +1257,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1278,10 +1278,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1299,10 +1299,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1320,10 +1320,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1341,10 +1341,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1362,10 +1362,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1383,10 +1383,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1404,10 +1404,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1425,10 +1425,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1446,10 +1446,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1467,10 +1467,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1488,10 +1488,10 @@
     },
     {
       "Identity": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "RádioBG",
+      "SourceId": "RadioBG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\",
-      "BasePath": "_content/RádioBG",
+      "BasePath": "_content/RadioBG",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1602,7 +1602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1220"
+          "Value": "1260"
         },
         {
           "Name": "Content-Type",
@@ -1610,11 +1610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
+          "Value": "\"eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
+          "Value": "Tue, 18 Nov 2025 21:06:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1624,12 +1624,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
+          "Value": "sha256-eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI="
         }
       ]
     },
     {
-      "Route": "css/lista.yljr2o5s4l.css",
+      "Route": "css/lista.h69cwy5p3m.css",
       "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\wwwroot\\css\\lista.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1639,7 +1639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1220"
+          "Value": "1260"
         },
         {
           "Name": "Content-Type",
@@ -1647,11 +1647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8=\""
+          "Value": "\"eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 21:05:47 GMT"
+          "Value": "Tue, 18 Nov 2025 21:06:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1661,7 +1661,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yljr2o5s4l"
+          "Value": "h69cwy5p3m"
         },
         {
           "Name": "label",
@@ -1669,7 +1669,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+nHncTThcZHPOhOCVvmGP9zFlmD3N7urxrMj8ufcKP8="
+          "Value": "sha256-eTGRHlUaZ2YTHXaG5i2ZFIc7gUgzJVqr4cAlrovSFnI="
         }
       ]
     },
@@ -7168,8 +7168,8 @@
       ]
     },
     {
-      "Route": "RádioBG.bundle.scp.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
+      "Route": "RadioBG.am1um23cwr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RadioBG.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7178,7 +7178,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "961"
+          "Value": "960"
         },
         {
           "Name": "Content-Type",
@@ -7186,85 +7186,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
+          "Value": "\"Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
-        }
-      ]
-    },
-    {
-      "Route": "RádioBG.styles.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "961"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
-        }
-      ]
-    },
-    {
-      "Route": "RádioBG.z3dm0zf1cu.bundle.scp.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RádioBG.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "961"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
+          "Value": "Sat, 22 Nov 2025 22:56:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7274,21 +7200,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z3dm0zf1cu"
+          "Value": "am1um23cwr"
         },
         {
           "Name": "label",
-          "Value": "RádioBG.bundle.scp.css"
+          "Value": "RadioBG.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
+          "Value": "sha256-Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4="
         }
       ]
     },
     {
-      "Route": "RádioBG.z3dm0zf1cu.styles.css",
-      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RádioBG.styles.css",
+      "Route": "RadioBG.am1um23cwr.styles.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RadioBG.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7297,7 +7223,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "961"
+          "Value": "960"
         },
         {
           "Name": "Content-Type",
@@ -7305,11 +7231,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw=\""
+          "Value": "\"Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 20:47:04 GMT"
+          "Value": "Sat, 22 Nov 2025 22:56:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7319,15 +7245,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z3dm0zf1cu"
+          "Value": "am1um23cwr"
         },
         {
           "Name": "label",
-          "Value": "RádioBG.styles.css"
+          "Value": "RadioBG.styles.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-34eIX2DY4qJ15QvSYc4ka8ExIcZh2g5J4B+qJQYZdOw="
+          "Value": "sha256-Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4="
+        }
+      ]
+    },
+    {
+      "Route": "RadioBG.bundle.scp.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RadioBG.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Nov 2025 22:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4="
+        }
+      ]
+    },
+    {
+      "Route": "RadioBG.styles.css",
+      "AssetFile": "C:\\Users\\scola\\OneDrive\\Área de Trabalho\\A.T\\DS\\PROJETO RÁDIO 1.2\\RádioBG\\RádioBG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RadioBG.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Nov 2025 22:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tk5NjrjJ/E/HZVVoQnNngVil2tMG/5ERk0QWFUKO0P4="
         }
       ]
     }

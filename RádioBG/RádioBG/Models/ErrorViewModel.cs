@@ -1,4 +1,4 @@
-namespace RádioBG.Models
+namespace RadioBG.Models
 {
     public class ErrorViewModel
     {
