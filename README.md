@@ -59,5 +59,24 @@ Método Login(string email, string senha) -> recebe os dados enviados pelo formu
 
 ViewBag.Erro. -> Em situações de erro, envia a mensagem para a View.
 
-RedirectToAction("Lista", "Musicas") -> a aplicação redireciona para outra página caso o utilizador seja encontrado.
+RedirectToAction("Lista", "Musicas") -> a aplicação redireciona para outra página caso o usuário seja encontrado.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Login.cshtml:
+Esse é o ficheiro que representa a interface de interação do usuário. Ele combina HTML com Razor Syntax, permitindo a execução 
+de trechos de código C# no servidor.
+
+Bloco @{ ... } -> configura as propriedades da página.
+
+Bloco @section Styles { ... } -> envia estilos adicionais para o ficheiro de layout principal. 
+
+Tag Helpers (asp-controller e asp-action) -> utilizado pelo formulário HTML para definir o controlador e ação responsáveis 
+pelo processamento dos dados enviados.
+
+<input type="email" name="email" /> -> campo de entrada que passa seus valores aos parâmetros do método Login no controlador, 
+obedecendo ao padrão de associação por nome. 
+
+@if (ViewBag.Erro != null) -> define a exibição de mensagens de erro, permitindo que o sistema apresente feedback ao utilizador.
+
+<a href="/Home/Register">Criar conta</a> -> é um link de navegação que conduz o usuário a outras ações dentro da aplicação.
